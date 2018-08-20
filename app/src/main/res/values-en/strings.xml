@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">How to Tie a Tie</string>
+    <string name="action_settings">Settings</string>
+    <string name="bow_tie_name">BOW Tie</string>
+    <string name="oriental_name">Oriental (or Simple)</string>
+    <string name="section_format">STEP %1$d</string>
+    <string name="café_name" translatable="false">Cafe</string>
+    <string name="four_in_hand">Four in Hand</string>
+    <string name="half_windsor_name" translatable="false">Half Windsor</string>
+    <string name="full_windsor_name" translatable="false">Full Windsor</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Como dar nó de gravata</string>
+    <string name="action_settings">Config</string>
+    <string name="section_format">ETAPA %1$d</string>
+    <string name="banner_ad_unit_TESTE" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-1098336821710456/2355975266</string>
+    <string name="hanover_name" translatable="false">Hanover</string>
+    <string name="full_windsor_name">Nó Inglês (Windsor)</string>
+    <string name="half_windsor_name">Nó Inglês Simples</string>
+    <string name="nicky_name" translatable="false">Nicky</string>
+    <string name="four_in_hand">Nó Americano</string>
+    <string name="kelvin_name" translatable="false">Kelvin</string>
+    <string name="oriental_name">Oriental (ou Nó Simples)</string>
+    <string name="pratt_name" translatable="false">Pratt</string>
+    <string name="standrew_name" translatable="false">St.Andrew</string>
+    <string name="balthus_name" translatable="false">Balthus</string>
+    <string name="plattsburgh_name" translatable="false">Plattsburgh</string>
+    <string name="granttchester_name" translatable="false">Granttchester</string>
+    <string name="victoria_name" translatable="false">Victoria</string>
+    <string name="café_name">Café</string>
+    <string name="eldredge_name" translatable="false">Eldredge</string>
+    <string name="trinity_name" translatable="false">Trinity</string>
+    <string name="christensen_name" translatable="false">Christensen</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="bow_tie_name">Gravata Borboleta</string>
+</resources>
